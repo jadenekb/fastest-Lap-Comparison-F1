@@ -21,6 +21,7 @@ Before running the notebook, install the required dependencies:
 ```bash
 pip install fastf1 matplotlib pandas numpy
 ```
+---
 
 ## 🚀 How to Use
 
@@ -36,7 +37,7 @@ pip install fastf1 matplotlib pandas numpy
 3. Run all cells in order.
 4. Enter the Prompted Inputs and Visualise the Output.
 
-   
+---
 ## Example Output (Max Verstappen vs Oscar Piastri) - United States Grand Prix 2025
 <img width="996" height="533" alt="Screenshot 2025-10-24 at 8 00 40 PM" src="https://github.com/user-attachments/assets/fef7e3fe-50da-4088-9105-354de92ca006" />
 
