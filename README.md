@@ -27,7 +27,7 @@ pip install fastf1 matplotlib pandas numpy
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/fastest-lap-comparison-f1.git
+   git clone https://github.com/jadenekb/fastest-lap-comparison-f1.git
    cd fastest-lap-comparison-f1
    ```
 2. Open the Jupyter Notebook:
